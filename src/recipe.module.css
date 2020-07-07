@@ -1,0 +1,23 @@
+.recipe {
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: 3px 5px 10px rgb(198, 197, 197);
+    background: #fff;
+    border-radius: 20px;
+    text-align: center;
+    margin: 20px;
+    padding: 30px;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    min-width: 40%;
+
+}
+
+
+/* ul {
+    width: 300px;
+    text-align: left;
+    line-height: 1.2;
+} */
